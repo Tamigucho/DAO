@@ -1,0 +1,4 @@
+chown -h 1000:1000 './Ownership.txt'
+chmod 0777 './Ownership.txt'
+/usr/bin/touch -hcmd "2023-08-13 16:05:09.2317754000 -0300" './Ownership.txt'
+/usr/bin/touch -hcad "2023-08-13 16:05:14.9491100000 -0300" './Ownership.txt'
